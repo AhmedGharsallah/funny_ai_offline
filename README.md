@@ -22,10 +22,10 @@ Gwen is a fully offline, voice-interfaced AI companion. She uses **Ollama (Llama
    cd YOUR_REPO_NAME
 
 2. Install dependencies:
-            pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run the AI
-            python chat.py
+   python chat.py
 
 ## 🎮 Commands
 Speak naturally to chat.
