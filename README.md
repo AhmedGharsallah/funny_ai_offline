@@ -22,9 +22,11 @@ Gwen is a fully offline, voice-interfaced AI companion. She uses **Ollama (Llama
    cd YOUR_REPO_NAME
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Run the AI
+4. Run the AI
+   ```bash
    python chat.py
 
 ## 🎮 Commands
@@ -34,3 +36,4 @@ Say "stop listening" to pause the mic.
 
 
 Say "exit" or "bye" to quit.
+
