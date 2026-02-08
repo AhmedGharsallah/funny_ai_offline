@@ -1,4 +1,4 @@
-# Gwen: Witty Offline AI Bestie ✨
+# Gwen: funny Offline AI ✨
 
 Gwen is a fully offline, voice-interfaced AI companion. She uses **Ollama (Llama 3.2)** for her "brain," **SpeechRecognition** to hear you, and **Piper** for high-quality, neural text-to-speech.
 
@@ -35,5 +35,6 @@ Say "stop listening" to pause the mic.
 
 
 Say "exit" or "bye" to quit.
+
 
 
